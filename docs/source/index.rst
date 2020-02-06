@@ -6,8 +6,8 @@ hello world
 
 This function takes your name as input and displays it with some output.::
 
-   print 'hello'
-   >> hello
+   helloworld('atul')
+   >> atul
 
 Guide
 ^^^^^
